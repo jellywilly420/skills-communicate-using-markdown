@@ -13,3 +13,8 @@ here's a cool image ![Image of Yaktocat](https://octodex.github.com/images/yakto
 let hello = "Hello, world!";
 console.log(hello);
 ```
+
+### steps to taking over the internet:
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
